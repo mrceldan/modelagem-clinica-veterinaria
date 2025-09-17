@@ -1,4 +1,4 @@
-# Projeto ADO 1 (POO) - Clínica Veterinária
+# Projeto ADO 1 (Programação Orientada a Objetos) - Clínica Veterinária
 
 Este projeto foi desenvolvido como atividade da disciplina de **Programação Orientada a Objetos**, aplicando conceitos de **classes, objetos e encapsulamento**.
 
